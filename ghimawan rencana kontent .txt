@@ -6,3 +6,4 @@ Rencana konten
 2. PHP framework
 3. Interview
 4. Vlog
+5. Struktur data dasar
