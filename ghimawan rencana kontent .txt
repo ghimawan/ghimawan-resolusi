@@ -3,7 +3,10 @@ Rencana konten
 1. Javascript
    - ES6
    - Framework
+   - Angular
+   - React
 2. PHP framework
+   - Laravel
 3. Interview
 4. Vlog
-5. Struktur data dasar
+
