@@ -4,6 +4,7 @@ Rencana konten
    - ES6
    - Framework
    - View
+   - React
 2. PHP framework
    - Laravel
 3. Interview
