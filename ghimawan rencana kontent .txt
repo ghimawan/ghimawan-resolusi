@@ -3,6 +3,7 @@ Rencana konten
 1. Javascript
    - ES6
    - Framework
+   - Angular
    - View
    - React
 2. PHP framework
